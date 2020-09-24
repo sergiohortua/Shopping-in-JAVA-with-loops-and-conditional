@@ -61,8 +61,9 @@ public class Main {
             System.out.println("El valor total de su factura es: " + (compraTotal - desc4));
         }
 
-
+        System.out.println("==================");
         System.out.println("Final de la compra");
+        System.out.println("==================");
 
     }
 
